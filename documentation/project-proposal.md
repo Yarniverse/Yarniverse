@@ -9,12 +9,6 @@ ___
 
 
 ### 📝 Features & User Stories
-* Describes all the features and their purpose.
-* For each feature, outline the user flow.
-* Identify features required for a MVP
-
-
-Example: 
 
 * **User Profile Page (MVP)**: Users can sign into the application to see their profile page. The profile page will display all of their projects, their profile picture and bio, and settings for updating their profile.
 * **Project Management Page (MVP)**: Users can either create a new project to track the project they are working on or view their old projects. With creating a new project, a user can give it a title and description, as well as including what hook they are using and the type of project they are working on. 
